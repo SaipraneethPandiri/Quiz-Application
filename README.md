@@ -2,7 +2,7 @@
 Welcome to the Quiz Application repository! This project involves the design and implementation of a dynamic web application tailored for efficient quiz management for students with personalized credentials.
 
 Key Achievements:
-Robust Quiz Management:
+Quiz Management:
 Developed a powerful web application to manage quizzes, significantly enhancing the learning experience for students.
 
 Secure User Authentication:
